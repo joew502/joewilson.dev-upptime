@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/joewilson.dev.ico",
     "slug": "joewilson-dev",
     "status": "up",
-    "uptime": "80.52%",
+    "uptime": "80.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.97%",
-    "time": 405,
-    "timeDay": 562,
-    "timeWeek": 508,
-    "timeMonth": 499,
-    "timeYear": 444,
+    "uptimeYear": "92.24%",
+    "time": 406,
+    "timeDay": 592,
+    "timeWeek": 532,
+    "timeMonth": 507,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2025-08-27": 412,
       "2025-08-26": 1440,
@@ -44,8 +44,7 @@
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
-      "2025-07-30": 604,
-      "2024-11-01": 977
+      "2025-07-30": 604
     }
   }
 ]
